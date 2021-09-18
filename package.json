@@ -5,7 +5,7 @@
   "scripts": {
     "docusaurus": "docusaurus docs-src",
     "start": "docusaurus start docs-src",
-    "build": "docusaurus build docs-src",
+    "build": "docusaurus build docs-src --out-dir docs",
     "swizzle": "docusaurus swizzle docs-src",
     "deploy": "docusaurus deploy docs-src",
     "clear": "docusaurus clear docs-src",
